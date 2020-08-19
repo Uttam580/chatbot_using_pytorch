@@ -12,8 +12,13 @@ A chatbot is an artificial intelligence (AI) software that can simulate a conver
 
 ![demo.gif](https://github.com/Uttam580/chatbot_using_pytorch/blob/master/demo.gif)
 
+### Aspects 
 
+Simple chatbot implementation with PyTorch.
 
+* The implementation is straightforward with a Feed Forward Neural net with 2 hidden layers.
+
+*  Customization for your own use case is  easy. Just modify intents.json with possible patterns and responses and re-run the training.
 
 
 ### Project directory tree 
