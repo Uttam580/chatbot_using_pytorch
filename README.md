@@ -20,6 +20,10 @@ Simple chatbot implementation with PyTorch.
 
 *  Customization for your own use case is  easy. Just modify intents.json with possible patterns and responses and re-run the training.
 
+### Nn visualization
+
+![model.png](https://github.com/Uttam580/chatbot_using_pytorch/blob/master/model_chat.pth.png)
+
 
 ### Project directory tree 
 
