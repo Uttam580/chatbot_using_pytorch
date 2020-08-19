@@ -1,1 +1,3 @@
+#ignoring notebook checkpoint and byte code complied file 
 __pycache__
+/notebooks/.ipynb_checkpoints
