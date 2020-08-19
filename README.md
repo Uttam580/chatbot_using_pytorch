@@ -4,6 +4,37 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Uttam580/chatbot_using_pytorch?color=red&style=plastic)
 
 
-#### work in progress
+### ChatBot implemented using Pytorch
+
+A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone.
+
+#### quick demo
 
 ![demo.gif](https://github.com/Uttam580/chatbot_using_pytorch/blob/master/demo.gif)
+
+
+
+
+
+### Project directory tree 
+
+```
+chatbot_using_pytorch
+├─ .gitignore
+├─ chat.py
+├─ demo.gif
+├─ input
+│  └─ intents.json
+├─ LICENSE
+├─ models
+│  └─ model_chat.pth
+├─ notebooks
+│  └─ chatbot_notebook.ipynb
+├─ README.md
+├─ requirements.txt
+└─ src
+   ├─ model.py
+   ├─ nltk_utils.py
+   └─ train.py
+
+```
