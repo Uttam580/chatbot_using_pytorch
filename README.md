@@ -49,7 +49,9 @@ chatbot_using_pytorch
 
 #### Installation
 
-##### Create an environment
+* Clone this repository and unzip it.
+
+* create new env with python 3 and activate it.
 
 Whatever you prefer (e.g. conda or venv)
 
@@ -58,12 +60,21 @@ mkdir myproject
 $ cd myproject
 $ python3 -m venv venv
 ```
-
 Activate it : 
+
 Windows:
 ```console
 venv\Scripts\activate
 ```
+
+* Install the required packages using pip install -r requirements.txt
+
+* Execute the command: python chat.py
+
+##### Create an environment
+
+
+
 #### Install PyTorch and dependencies
 
 For Installation of PyTorch see [official website](https://pytorch.org/).
