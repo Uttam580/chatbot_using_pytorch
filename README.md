@@ -12,7 +12,7 @@ A chatbot is an artificial intelligence (AI) software that can simulate a conver
 
 ![demo.gif](https://github.com/Uttam580/chatbot_using_pytorch/blob/master/demo.gif)
 
-### Aspects 
+#### Aspects 
 
 Simple chatbot implementation with PyTorch.
 
@@ -20,7 +20,7 @@ Simple chatbot implementation with PyTorch.
 
 *  Customization for your own use case is  easy. Just modify intents.json with possible patterns and responses and re-run the training.
 
-### Nn visualization
+#### Nn visualization
 
 ![model.png](https://github.com/Uttam580/chatbot_using_pytorch/blob/master/model_chat.pth.png)
 
@@ -47,3 +47,26 @@ chatbot_using_pytorch
    └─ train.py
 
 ```
+
+#### Installation
+
+##### Create an environment
+
+Whatever you prefer (e.g. conda or venv)
+
+
+
+   ```mkdir myproject
+   $ cd myproject
+   $ python3 -m venv venv```
+
+Activate it : 
+
+   ```venv\Scripts\activate```
+
+
+#### Bug / Feature Request
+
+If you find a bug, kindly open an issue <a href  ='https://github.com/Uttam580/chatbot_using_pytorch/issues/new'></a> by including your search query and the expected result.
+
+
