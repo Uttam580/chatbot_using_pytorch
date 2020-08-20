@@ -54,15 +54,13 @@ chatbot_using_pytorch
 
 Whatever you prefer (e.g. conda or venv)
 
-
-
-   ```mkdir myproject
-   $ cd myproject
-   $ python3 -m venv venv```
+```mkdir myproject
+$ cd myproject
+$ python3 -m venv venv```
 
 Activate it : 
 
-   ```venv\Scripts\activate```
+```venv\Scripts\activate```
 
 
 #### Bug / Feature Request
