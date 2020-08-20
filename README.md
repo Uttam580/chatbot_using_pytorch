@@ -45,7 +45,6 @@ chatbot_using_pytorch
    ├─ model.py
    ├─ nltk_utils.py
    └─ train.py
-
 ```
 
 #### Installation
@@ -55,8 +54,8 @@ chatbot_using_pytorch
 Whatever you prefer (e.g. conda or venv)
 
 ```mkdir myproject
-$ cd myproject
-$ python3 -m venv venv```
+   $ cd myproject
+   $ python3 -m venv venv```
 
 Activate it : 
 
